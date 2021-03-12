@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/robocop/static/css/main.32dd630a.chunk.css",
+    "main.js": "/robocop/static/js/main.e69d11d1.chunk.js",
+    "main.js.map": "/robocop/static/js/main.e69d11d1.chunk.js.map",
+    "runtime-main.js": "/robocop/static/js/runtime-main.d93e5d96.js",
+    "runtime-main.js.map": "/robocop/static/js/runtime-main.d93e5d96.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/robocop/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.e7e24cc0.chunk.js": "/robocop/static/js/2.e7e24cc0.chunk.js",
+    "static/js/2.e7e24cc0.chunk.js.map": "/robocop/static/js/2.e7e24cc0.chunk.js.map",
+    "index.html": "/robocop/index.html",
+    "precache-manifest.35d9325408667538e30d3a6a3a009d9f.js": "/robocop/precache-manifest.35d9325408667538e30d3a6a3a009d9f.js",
+    "service-worker.js": "/robocop/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/robocop/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.32dd630a.chunk.css.map": "/robocop/static/css/main.32dd630a.chunk.css.map",
+    "static/js/2.e7e24cc0.chunk.js.LICENSE.txt": "/robocop/static/js/2.e7e24cc0.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/robocop/static/media/SEGA.12a3db8b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d93e5d96.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.e7e24cc0.chunk.js",
+    "static/css/main.32dd630a.chunk.css",
+    "static/js/main.e69d11d1.chunk.js"
+  ]
+}
